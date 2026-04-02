@@ -1,0 +1,7 @@
+data/paysim.csv
+data/cleaned_paysim.csv
+data/graph.pt
+data/edge_labels.pt
+**/__pycache__/
+**/__pycache__/
+venv/
